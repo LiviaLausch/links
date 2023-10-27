@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as segintestecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online .
 
--[Visite meu projeto online](https://livialausch.github.io/codigos)
+-[Visite meu projeto online](https://livialausch.github.io/links)
 
 ## 📂 Layout
 
